@@ -1,0 +1,33 @@
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/
+
+# Temporary upload folder
+temp/
+
+# Logs
+*.log
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Large files
+*.pdf
+*.faiss
+*.index
+*.pkl
